@@ -15,9 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+🔭 I’m currently working on Machine/Depp Learning
+🌱 I’m currently learning React.js/ Three.js
+📫 How to reach me: aryanskywalker002vader@gmail.com
+
 ## 1. GitHub Stats
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryan-skywalker&repo=github-readme-stats)](https://github.com/aryan-skywalker/github-readme-stats)
+![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=aryan-skywalker)
 
 ## 2. Most Used Languages
 
