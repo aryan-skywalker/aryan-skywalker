@@ -15,23 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on Machine/Depp Learning
-🌱 I’m currently learning React.js/ Three.js
-📫 How to reach me: aryanskywalker002vader@gmail.com
+- 🔭 I’m currently working on Machine/Depp Learning
+- 🌱 I’m currently learning React.js/ Three.js
+- 📫 How to reach me: aryanskywalker002vader@gmail.com
 
-## 1. GitHub Stats
 
 ![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=aryan-skywalker)
 
-## 2. Most Used Languages
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-skywalker&theme=blue-green)
 
-## 3. Contributors Badge
 
 ![Your Repository's Stats](https://contrib.rocks/image?repo=aryan-skywalker/aryandev)
 
-## 4. Random Joke Generator
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
@@ -39,7 +35,4 @@ Here are some ideas to get you started:
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=aryan-skywalker)
 
-### Repository View Counter - HITS
-
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/aryan-skywalker/aryan-skywalker)
 
