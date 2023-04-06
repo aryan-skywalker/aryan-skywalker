@@ -33,7 +33,6 @@ Here are some ideas to get you started:
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-## 5. Profile View Counter
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=aryan-skywalker)
 
