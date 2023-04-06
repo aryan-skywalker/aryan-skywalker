@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ##Visit my amazing Portfolio
 -https://aryan-skywalker.github.io/aryandev/
 
-- 🔭 I’m currently working on Machine/Depp Learning
+- 🔭 I’m currently working on Machine/Deep Learning
 - 🌱 I’m currently learning React.js/ Three.js
 - 📫 How to reach me: aryanskywalker002vader@gmail.com
 
